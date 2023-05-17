@@ -1,4 +1,4 @@
-# Linkred_List
+# Linked_List
 In this Jupiter file, I explain one of the most important data structures.
 ### SLL
 ### DLL
